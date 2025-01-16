@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software engineer passionate about building reliable distributed systems. If you find my work helpful, consider supporting me at [buymeacoffee.com/slonka](https://buymeacoffee.com/slonka).
+
 <!--
 **slonka/slonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
